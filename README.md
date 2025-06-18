@@ -9,7 +9,6 @@
 
 A powerful React application for uploading, analyzing, and visualizing CSV data with beautiful charts and comprehensive statistics.
 
-![App Screenshot](screenshot.png) *(Replace with actual screenshot)*
 
 ## ✨ Features
 
